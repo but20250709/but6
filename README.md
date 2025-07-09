@@ -10,4 +10,4 @@
 
 本平台聚合全网精品视频，专为追求高清、高速播放体验的用户打造。资源分类详尽，播放流畅不卡顿，适配各类设备，支持匿名访问，每日同步更新最新资源，安全便捷。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/but20250709/but6 ）</span>
